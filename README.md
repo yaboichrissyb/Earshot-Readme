@@ -7,32 +7,39 @@ A web app that helps you better understand yourself and the traits you are attra
 This project was completed with a team of four Dev Bootcamp students.
 
 ### Katy Meyer
-
 <figure>
   <img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150">
   <figcaption>kmeyer313</figcaption>
 </figure>
 <!-- ![Katy Meyer](imgs/katie_meyer.jpeg =100) -->
-<!--
+
 ###Tori Huang
 
-torihuang:
-![Tori Huang](imgs/tori_huang.jpeg =100)
+<figure>
+  <img src="imgs/tori_huang.jpeg" alt="Tori Huang" height="150">
+  <figcaption>torihuang</figcaption>
+</figure>
 
 ###Eric Tenza
 
-tenzaej:
-![Eric Tenza](imgs/eric_tenza.jpeg =100)
+<figure>
+  <img src="imgs/eric_tenza.jpeg" alt="Eric Tenza" height="150">
+  <figcaption>tenzaej</figcaption>
+</figure>
 
 ###Jones Melton
 
-shavah:
-![Jones Melton](imgs/jones_melton.jpeg =100)
+<figure>
+  <img src="imgs/jones_melton.jpeg" alt="Jones Melton" height="150">
+  <figcaption>shavah</figcaption>
+</figure>
 
 ###Tyler Doerschuk
 
-ty-doerschuk:
-![Tyler Doerschuk](imgs/tyler_d.png =100) -->
+<figure>
+  <img src="imgs/tyler_d.png" alt="Tyler Doershuk" height="150">
+  <figcaption>ty-doerschuk</figcaption>
+</figure>
 
 ## Stack
 
