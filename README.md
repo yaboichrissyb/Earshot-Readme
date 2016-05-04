@@ -6,48 +6,18 @@ A web app that helps you better understand yourself and the traits you are attra
 
 This project was completed with a team of four Dev Bootcamp students.
 
-<div class='people' style='width:70%;margin:20px auto;'>
-  <div class='row' style='display:block;'>
-    ### Katy Meyer
-    <div class='personal-tile'>
-      <img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150">
-      <a href="#">kmeyer313</a>
-    </div>
-    <!-- ![Katy Meyer](imgs/katie_meyer.jpeg =100) -->
-  </div>
+Markdown | Less
+--- | ---
 
-  <div class='row' style='display:block;'>
-    ###Tori Huang
+### Katy Meyer: kmeyer313
+### Tori Huang: torihuang
+###Eric Tenza: tenzaej
+###Jones Melton: shavah
+###Tyler Doerschuk: ty-doerschuk
 
-    <div class='personal-tile'>
-      <img src="imgs/tori_huang.jpeg" alt="Tori Huang" height="150">
-      <a href="#">torihuang</a>
-    </div>
-
-    ###Eric Tenza
-
-    <div class='personal-tile'>
-      <img src="imgs/eric_tenza.jpeg" alt="Eric Tenza" height="150">
-      <a href="#">tenzaej</a>
-    </div>
-  </div>
-
-  <div class='row' style='display:block;'>
-    ###Jones Melton
-
-    <div class='personal-tile'>
-      <img src="imgs/jones_melton.jpeg" alt="Jones Melton" height="150">
-      <a href="#">shavah</a>
-    </div>
-
-    ###Tyler Doerschuk
-
-    <div class='personal-tile'>
-      <img src="imgs/tyler_d.png" alt="Tyler Doershuk" height="150">
-      <a href="#">ty-doerschuk</a>
-    </div>
-  </div>
-</div>
+<img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150">
+<img src="imgs/tori_huang.jpeg" alt="Tori Huang" height="150"> | <img src="imgs/eric_tenza.jpeg" alt="Eric Tenza" height="150">
+<img src="imgs/jones_melton.jpeg" alt="Jones Melton" height="150"> | <img src="imgs/tyler_d.png" alt="Tyler Doershuk" height="150">
 
 ## Stack
 
