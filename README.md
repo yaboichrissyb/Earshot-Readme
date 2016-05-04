@@ -9,27 +9,27 @@ This project was completed with a team of four Dev Bootcamp students.
 ### Katy Meyer
 
 kmeyer313:
-![Katy Meyer][imgs/katie_meyer.jpeg]
+![Katy Meyer](imgs/katie_meyer.jpeg =100)
 
 ###Tori Huang
 
 torihuang:
-![Tori Huang](imgs/tori_huang.jpeg)
+![Tori Huang](imgs/tori_huang.jpeg =100)
 
 ###Eric Tenza
 
 tenzaej:
-![Eric Tenza](imgs/eric_tenza.jpeg)
+![Eric Tenza](imgs/eric_tenza.jpeg =100)
 
 ###Jones Melton
 
 shavah:
-![Jones Melton](imgs/jones_melton.jpeg)
+![Jones Melton](imgs/jones_melton.jpeg =100)
 
 ###Tyler Doerschuk
 
 ty-doerschuk:
-![Tyler Doerschuk](imgs/tyler_d.png)
+![Tyler Doerschuk](imgs/tyler_d.png =100)
 
 ## Stack
 
