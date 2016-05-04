@@ -14,22 +14,22 @@ kmeyer313:
 ###Tori Huang
 
 torihuang:
-![Tori Huang][imgs/tori_huang.jpeg]
+![Tori Huang](imgs/tori_huang.jpeg)
 
 ###Eric Tenza
 
 tenzaej:
-![Eric Tenza][imgs/eric_tenza.jpeg]
+![Eric Tenza](imgs/eric_tenza.jpeg)
 
 ###Jones Melton
 
 shavah:
-![Jones Melton][imgs/jones_melton.jpeg]
+![Jones Melton](imgs/jones_melton.jpeg)
 
 ###Tyler Doerschuk
 
 ty-doerschuk:
-![Tyler Doerschuk][imgs/tyler_d.png]
+![Tyler Doerschuk](imgs/tyler_d.png)
 
 ## Stack
 
