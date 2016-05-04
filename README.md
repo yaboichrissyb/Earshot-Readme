@@ -8,9 +8,10 @@ This project was completed with a team of four Dev Bootcamp students.
 
 ### Katy Meyer
 
-kmeyer313:
-![Katy Meyer](imgs/katie_meyer.jpeg =100)
-
+kmeyer313
+<img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150">
+<!-- ![Katy Meyer](imgs/katie_meyer.jpeg =100) -->
+<!--
 ###Tori Huang
 
 torihuang:
@@ -29,7 +30,7 @@ shavah:
 ###Tyler Doerschuk
 
 ty-doerschuk:
-![Tyler Doerschuk](imgs/tyler_d.png =100)
+![Tyler Doerschuk](imgs/tyler_d.png =100) -->
 
 ## Stack
 
