@@ -8,8 +8,10 @@ This project was completed with a team of four Dev Bootcamp students.
 
 ### Katy Meyer
 
-kmeyer313
-<img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150">
+<figure>
+  <img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150">
+  <figcaption>kmeyer313</figcaption>
+</figure>
 <!-- ![Katy Meyer](imgs/katie_meyer.jpeg =100) -->
 <!--
 ###Tori Huang
