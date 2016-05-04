@@ -6,40 +6,48 @@ A web app that helps you better understand yourself and the traits you are attra
 
 This project was completed with a team of four Dev Bootcamp students.
 
-### Katy Meyer
-<figure>
-  <img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150">
-  <figcaption>kmeyer313</figcaption>
-</figure>
-<!-- ![Katy Meyer](imgs/katie_meyer.jpeg =100) -->
+<div class='people' style='width:70%;margin:20px auto;'>
+  <div class='row' style='display:block;'>
+    ### Katy Meyer
+    <div class='personal-tile'>
+      <img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150">
+      <a href="#">kmeyer313</a>
+    </div>
+    <!-- ![Katy Meyer](imgs/katie_meyer.jpeg =100) -->
+  </div>
 
-###Tori Huang
+  <div class='row' style='display:block;'>
+    ###Tori Huang
 
-<figure>
-  <img src="imgs/tori_huang.jpeg" alt="Tori Huang" height="150">
-  <figcaption>torihuang</figcaption>
-</figure>
+    <div class='personal-tile'>
+      <img src="imgs/tori_huang.jpeg" alt="Tori Huang" height="150">
+      <a href="#">torihuang</a>
+    </div>
 
-###Eric Tenza
+    ###Eric Tenza
 
-<figure>
-  <img src="imgs/eric_tenza.jpeg" alt="Eric Tenza" height="150">
-  <figcaption>tenzaej</figcaption>
-</figure>
+    <div class='personal-tile'>
+      <img src="imgs/eric_tenza.jpeg" alt="Eric Tenza" height="150">
+      <a href="#">tenzaej</a>
+    </div>
+  </div>
 
-###Jones Melton
+  <div class='row' style='display:block;'>
+    ###Jones Melton
 
-<figure>
-  <img src="imgs/jones_melton.jpeg" alt="Jones Melton" height="150">
-  <figcaption>shavah</figcaption>
-</figure>
+    <div class='personal-tile'>
+      <img src="imgs/jones_melton.jpeg" alt="Jones Melton" height="150">
+      <a href="#">shavah</a>
+    </div>
 
-###Tyler Doerschuk
+    ###Tyler Doerschuk
 
-<figure>
-  <img src="imgs/tyler_d.png" alt="Tyler Doershuk" height="150">
-  <figcaption>ty-doerschuk</figcaption>
-</figure>
+    <div class='personal-tile'>
+      <img src="imgs/tyler_d.png" alt="Tyler Doershuk" height="150">
+      <a href="#">ty-doerschuk</a>
+    </div>
+  </div>
+</div>
 
 ## Stack
 
