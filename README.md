@@ -32,7 +32,7 @@ Introspect backend was created and accessed with MongoDB and the Mongoid Gem. Th
 
 ## Team
 
-This project was completed with a team of four Dev Bootcamp students.
+This project was completed with a team of five Dev Bootcamp students.
 
 <a href='https://github.com/kmeyer313'>Katie Meyer</a> | <a href='https://github.com/torihuang'>Tori Huang</a> | <a href='https://github.com/tenzaej'>Eric Tenza</a>
 :---: | :---: | :---:
