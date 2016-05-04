@@ -6,11 +6,11 @@ A web app that helps you better understand yourself and the traits you are attra
 
 This project was completed with a team of four Dev Bootcamp students.
 
-Katie Meyer | Tori Huang | Eric Tenza
+<a href='github.com/kmeyer313'>Katie Meyer</a> | <a href='github.com/torihuang'>Tori Huang</a> | <a href='github.com/tenzaej'>Eric Tenza</a>
 :---: | :---: | :---:
-<a href='github.com/kmeyer313'><img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150"></a> | <a href='github.com/torihuang'><img src="imgs/tori_huang.jpeg" alt="Tori Huang" height="150"> | <a href='github.com/tenzaej'><img src="imgs/eric_tenza.jpeg" alt="Eric Tenza" height="150">
- **Jones Melton**| **Tyler Doershuk**
-<a href='github.com/shavah'><img src="imgs/jones_melton.jpeg" alt="Jones Melton" height="150"> | <a href='github.com/ty-doerschuk'><img src="imgs/tyler_d.png" alt="Tyler Doershuk" height="150">
+<img src="imgs/katie_meyer.jpeg" alt="Katy Meyer" height="150"> | <img src="imgs/tori_huang.jpeg" alt="Tori Huang" height="150"> | <img src="imgs/eric_tenza.jpeg" alt="Eric Tenza" height="150">
+ **<a href='github.com/shavah'>Jones Melton</a>**| **<a href='github.com/ty-doerschuk'>Tyler Doershuk</a>**
+<img src="imgs/jones_melton.jpeg" alt="Jones Melton" height="150"> | <img src="imgs/tyler_d.png" alt="Tyler Doershuk" height="150">
 
 ## Stack
 
