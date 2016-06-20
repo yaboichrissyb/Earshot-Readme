@@ -36,11 +36,17 @@ Earshot's backend was created as a custom Rails API and served on the mobile fro
 ## Team
 
 This project was completed with a team of five DevBootcamp students.
-
-<a href='https://github.com/yaboichrissyb'>Chris Bunkers</a> | <a href='https://github.com/byronbenjamin'>Byron Gage</a> | <a href='https://github.com/creaumond'>Connor Reaumond</a>
+<table>
+  <thead><tr>
+<td><a href='https://github.com/yaboichrissyb'>Chris Bunkers</a></td> | <td><a href='https://github.com/byronbenjamin'>Byron Gage</a></td> | <td><a href='https://github.com/creaumond'>Connor Reaumond</a></td></tr></thead>
 :---: | :---: | :---:
-<img src="https://avatars2.githubusercontent.com/u/15988401?v=3&s=460" alt="Chris Bunkers" height="150">
-<img src="https://avatars2.githubusercontent.com/u/10470928?v=3&s=400" alt="Byron Gage" height="150"> | <img src="https://avatars1.githubusercontent.com/u/7423000?v=3&s=400" alt="Connor Reaumond" height="150">
- **<a href='https://github.com/kromitj'>Mitch Kroska
-</a>**| **<a href='https://github.com/scottjoseph'>Joseph Scott</a>**
-<img src="https://avatars3.githubusercontent.com/u/3989738?v=3&s=400" alt="Mitch Kroska" height="150"> | <img src="https://avatars2.githubusercontent.com/u/14190935?v=3&s=400" alt="Joseph Scott" height="150">
+<tr>
+<td><img src="https://avatars2.githubusercontent.com/u/15988401?v=3&s=460" alt="Chris Bunkers" height="150"></td>
+<td><img src="https://avatars2.githubusercontent.com/u/10470928?v=3&s=400" alt="Byron Gage" height="150"></td> | <td><img src="https://avatars1.githubusercontent.com/u/7423000?v=3&s=400" alt="Connor Reaumond" height="150"></td>
+</tr>
+<tr>
+ **<td><a href='https://github.com/kromitj'>Mitch Kroska
+</a></td>**| **<td><a href='https://github.com/scottjoseph'>Joseph Scott</a></td></tr>**
+<tr><td><img src="https://avatars3.githubusercontent.com/u/3989738?v=3&s=400" alt="Mitch Kroska" height="150"></td> | <td><img src="https://avatars2.githubusercontent.com/u/14190935?v=3&s=400" alt="Joseph Scott" height="150"><td>
+</tr>
+</table>
