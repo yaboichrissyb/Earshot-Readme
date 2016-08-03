@@ -14,7 +14,7 @@ Earshot was conceived as a two-tier web and mobile application; with the web por
 
 After logging in or registering, the user is taken to their main user page.  From here, they can see and listen to all songs available to them based on their current location.  They can also see their favorites list and last ten plays as well as a clickable map showing nearby songs.
 
-<center>[User](imgs/user_page.png)</center>
+<center>![User](imgs/user_page.png)</center>
 
 From here, the user navigates to their artist profile where they are able to drop new songs and track the progress of previously released songs.
 
